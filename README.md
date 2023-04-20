@@ -1,5 +1,5 @@
 # Belp
-Belp is a collection of build tools and extensions for MSBuild.
+Belp is a collection of build tools and extensions.
 
 ## Installation
 

@@ -2,7 +2,7 @@ copyright: Copyright © Arthri 2022
 site_author: Arthri
 
 site_name: Belp
-site_description: A collection of build tools and extensions for MSBuild.
+site_description: A collection of build tools and extensions.
 
 repo_url: https://github.com/Arthri/Belp
 site_url: https://arthri.github.io/Belp
