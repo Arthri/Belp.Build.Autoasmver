@@ -14,6 +14,15 @@ Pull requests are currently not accepted.
 1. Add or update tests.
 1. Add your name to `<Authors>...</Authors>` in the appropriate projects.
 
+## Publishing
+
+### NuGet
+Pushing packages to NuGet is exclusively done by GitHub Actions.
+1. Send a pull request to the branch `release/nuget`.
+1. Merge the pull request.
+1. Approve the workflow for usage of the `NuGet` environment.
+1. Create a new release and tag on the `release/nuget` branch.
+
 ## Contacts
 - @Arthri
   - Email: mailto://arthryxate@gmail.com
