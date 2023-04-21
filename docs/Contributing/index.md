@@ -13,7 +13,7 @@ Not supported.
 - .NET 7 SDK.
 
 ## Pull Requests
-Pull requests are not currently accepted.
+Pull requests are currently not accepted.
 
 ## Issues
 1. Determine the appropriate repository.
