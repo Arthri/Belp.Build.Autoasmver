@@ -68,9 +68,7 @@ plugins:
   search: {}
   social:
     cards: !ENV [CI, false]
-  tags:
-    enabled: !ENV [CI, false]
-    tags_allowed: {}
+  tags: {}
 
 
 
