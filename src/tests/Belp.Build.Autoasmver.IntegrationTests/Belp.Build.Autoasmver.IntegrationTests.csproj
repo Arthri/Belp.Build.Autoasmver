@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <!-- Build Configuration -->
-  <PropertyGroup>
-    <TestPackageBuildFilesPath>$(_SourcesPackDirectory)Belp.Build.Autoasmver\Assets\build\</TestPackageBuildFilesPath>
-    <TargetFramework>net7.0</TargetFramework>
-  </PropertyGroup>
-
-</Project>
