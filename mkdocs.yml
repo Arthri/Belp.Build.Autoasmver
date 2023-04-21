@@ -13,6 +13,7 @@ nav:
   - Home: index.md
   - Contributing:
     - Contributing/index.md
+    - Contributing/Multiple_Repositories.md
     - Development:
       - Contributing/Development/index.md
       - Contributing/Development/NuGet_Source.md
