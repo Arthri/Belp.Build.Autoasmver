@@ -11,7 +11,8 @@ site_url: https://arthri.github.io/Belp
 
 nav:
   - Home: index.md
-  - Contributing.md
+  - Contributing:
+    - Contributing/index.md
 
 
 
