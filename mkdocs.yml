@@ -13,6 +13,8 @@ nav:
   - Home: index.md
   - Contributing:
     - Contributing/index.md
+    - Development:
+      - Contributing/Development/NuGet_Source.md
 
 
 
