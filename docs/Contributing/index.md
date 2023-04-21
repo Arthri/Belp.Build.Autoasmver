@@ -18,6 +18,7 @@ Pull requests are currently not accepted.
 
 ### NuGet
 Pushing packages to NuGet is exclusively done by GitHub Actions.
+
 1. Send a pull request to the branch `release/nuget`.
 1. Merge the pull request.
 1. Approve the workflow for usage of the `NuGet` environment.
@@ -25,4 +26,4 @@ Pushing packages to NuGet is exclusively done by GitHub Actions.
 
 ## Contacts
 - @Arthri
-  - Email: mailto://arthryxate@gmail.com
+    - Email: mailto://arthryxate@gmail.com
