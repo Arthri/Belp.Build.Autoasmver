@@ -20,7 +20,7 @@ Pull requests are currently not accepted.
 1. Open a new issue and choose the appropriate template.
 1. Fill out the required fields.
 
-## Commiting
+## Committing
 1. Update code.
 1. Add or update relevant documentation sections.
 1. Add or update tests.
